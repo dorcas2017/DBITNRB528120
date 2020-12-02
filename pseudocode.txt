@@ -1,0 +1,22 @@
+Pseudocode for Food Ordering App
+Approach counter
+Output 'OrderIng Food,Snacks or Drinks?'
+Input order_Food
+if order_Food = yes then
+order_Food
+Output 'Order_Snacks?'
+Input order_Snacks
+if order_Snacks = yes then
+order Snacks
+Output 'Order Drinks?'
+Input order_drink
+If order_drink = yes then
+order drink
+Output:-Dine in or Take away option
+If Dine in = yes then
+food_to_table
+If Take_away = yes then
+Pack_food
+Output:- Display Price
+Pay cashier 
+Print Receipt
