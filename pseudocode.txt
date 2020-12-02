@@ -19,4 +19,4 @@ If Take_away = yes then
 Pack_food
 Output:- Display Price
 Pay cashier 
-Print Receipt
+Print Receipt.
